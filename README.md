@@ -2,7 +2,7 @@
 
 <p>
 GitHub Repository: 
-<a href="https://github.com/kushagra1303/Finance-Dashboard-Backend">View Project</a>
+<a href="https://github.com/kushagra1303/Finance-Backend-Zorvyn">View Project</a>
 </p>
 
 <p>
